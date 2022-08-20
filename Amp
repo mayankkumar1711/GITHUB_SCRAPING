@@ -1,0 +1,21 @@
+,USERNAME,REPO_LINK,STAR COUNT
+0,amphp,/amphp/amp,"3,677"
+1,danog,/danog/MadelineProto,"2,045"
+2,amphp,/amphp/http-server,"1,193"
+3,unreal4u,/unreal4u/telegram-api,727
+4,amphp,/amphp/http-client,622
+5,amphp,/amphp/parallel,595
+6,php-service-bus,/php-service-bus/service-bus,328
+7,amphp,/amphp/byte-stream,299
+8,amphp,/amphp/mysql,283
+9,amphp,/amphp/parallel-functions,230
+10,amphp,/amphp/process,188
+11,amphp,/amphp/socket,168
+12,amphp,/amphp/dns,123
+13,amphp,/amphp/redis,129
+14,amphp,/amphp/sync,116
+15,kelunik,/kelunik/acme,114
+16,amphp,/amphp/websocket-client,108
+17,PeeHaa,/PeeHaa/mailgrab,92
+18,amphp,/amphp/websocket-server,82
+19,amphp,/amphp/serialization,81
